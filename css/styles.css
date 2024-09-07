@@ -379,7 +379,7 @@ text-shadow:1px 1px #73757E;
     text-align: center;
     margin: 0px;
     color: var(--txtaccent);
-    background-color: rgba(0,0,0,0.65);
+    background-color: rgba(0,0,0,0.0);
     padding: 8px 15px 15px;
     position: absolute;
     bottom: 0px;
